@@ -8,7 +8,7 @@
 其实jQuery就是讲常用的js操作封装了起来。jQuery是js的一个框架，基本语法和js一致。将js的DOM操作重新封装
 整合了。
 + **内容**:
-**jQuery的选择器**
-**jQuery的DOM操作**
-**jQuery的事件和动画**
-**jQuery的表单验证**
+`jQuery的选择器`
+`jQuery的DOM操作`
+`jQuery的事件和动画`
+`jQuery的表单验证`
